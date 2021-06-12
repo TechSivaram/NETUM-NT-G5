@@ -1,4 +1,4 @@
-# NETUM-NT-G5 - Ionic Capacitor
+# NETUM-NT-G5 - Ionic-Capacitor native plugin
 
 Ionic Capacitor Native Plugin for NETUM NT-G5 Label Printer
 
