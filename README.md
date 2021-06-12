@@ -1,4 +1,5 @@
-# NETUM-NT-G5
+# NETUM-NT-G5 - Ionic Capacitor
+
 Ionic Capacitor Native Plugin for NETUM NT-G5 Label Printer
 
 Our requirement is to print barcode when I was on field. 
