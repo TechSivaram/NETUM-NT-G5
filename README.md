@@ -11,7 +11,7 @@ https://www.jsdelivr.com/package/npm/cordova-plugin-lpapi
 https://www.npmjs.com/package/cordova-plugin-lpapi
 
 
-## There is a javascript interface functions in this jar, so we can able to call from ionic (javascript). ##
+## There are javascript interface functions in this jar, so we can able to call from ionic (javascript). ##
 
 https://stackoverflow.com/questions/5107187/extract-source-code-from-jar-file
 
