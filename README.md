@@ -6,6 +6,8 @@ https://capacitorjs.com/docs/plugins/creating-plugins
 
 https://devdactic.com/build-capacitor-plugin/
 
+https://www.jsdelivr.com/package/npm/cordova-plugin-lpapi
+
 Ionic Capacitor Native Plugin for NETUM NT-G5 Label Printer
 
 Our requirement is to print barcode when end user is at remote area. 
