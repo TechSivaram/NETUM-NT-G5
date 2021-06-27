@@ -6,7 +6,7 @@ Our requirement is to print barcode when end user is at remote area.
 
 We did give android tablet with Ionic Capacitor App Installed powered with this native Plugin.
 
-Before this the on-site team were carrying printers, generators, laptops along with medical equipment to collect the COVID samples.
+Before this the on-site team were carrying printers, generators, laptops along with medical equipment to collect the samples.
 
 Now they can charge this Bluetooth printer, android tablet in the car and just get the job done.
 
