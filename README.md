@@ -18,5 +18,10 @@ Used this SDK http://download.gzxlscan.com/driver/nt-g5//Bluetooth%20Label%20Pri
 
 ![image](https://user-images.githubusercontent.com/85802871/121785644-9221df80-cbd8-11eb-9cd0-1a6364563def.png)
 
+# Very Important
+
+![image](https://user-images.githubusercontent.com/85802871/123553210-77826580-d797-11eb-922c-90027f0746b0.png)
+
+
 
 
