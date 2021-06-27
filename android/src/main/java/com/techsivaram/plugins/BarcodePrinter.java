@@ -93,18 +93,18 @@ public class BarcodePrinter extends Plugin {
     @PluginMethod
     public void printSivaramBarCode(PluginCall call) {
         String printerName = call.getString("printerName");
-        String specimenId = call.getString("specimenId");
-        String patientName = call.getString("patientName");
+        String uniqueId = call.getString("uniqueId");
+        String name = call.getString("name");
         String dateOfBirth = call.getString("dateOfBirth");
-        String siteName = call.getString("siteName");
+        String location = call.getString("location");
         api = Factory.createInstance();
         boolean value;
         value = api.openPrinter(printerName);
         value = api.startJob(60, 25, 0);
-        value = api.draw1DBarcode(specimenId, LPAPI.BarcodeType.AUTO, 15, 3, 40, 8, 3);
-        value = api.drawText(patientName, 15, 10, 50, 7, 3);
+        value = api.draw1DBarcode(uniqueId, LPAPI.BarcodeType.AUTO, 15, 3, 40, 8, 3);
+        value = api.drawText(name, 15, 10, 50, 7, 3);
         value = api.drawText(dateOfBirth, 15, 16, 50, 7, 3);
-        value = api.drawText(siteName, 15, 20, 50, 7, 3);
+        value = api.drawText(location, 15, 20, 50, 7, 3);
         value = api.commitJob();
         JSObject ret = new JSObject();
         ret.put("status", value);

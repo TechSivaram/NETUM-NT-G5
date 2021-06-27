@@ -29,7 +29,7 @@ export interface BarcodePrinterPlugin {
 }
 
 export interface printBarCode {
-  printCovidBarCode(options: { printerName: string, specimenId: string, patientName: string, dateOfBirth: string, siteName: string, status: boolean }): Promise<{ status: boolean }>;
+  printSivaramBarCode(options: { printerName: string, uniqueId: string, name: string, dateOfBirth: string, location: string, status: boolean }): Promise<{ status: boolean }>;
 }
 
 export interface printText {

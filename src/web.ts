@@ -26,7 +26,7 @@ export class BarcodePrinterWeb extends WebPlugin implements BarcodePrinterPlugin
   async getAllPrinters(options: { printers: string }): Promise<{ printers: string }> {
     return options;
   }
-  async printCovidBarCode(options: { printerName: string, specimenId: string, patientName: string, dateOfBirth: string, siteName: string, status: boolean }): Promise<{ status: boolean }> {
+  async printSivaramBarCode(options: { printerName: string, uniqueId: string, name: string, dateOfBirth: string, location: string, status: boolean }): Promise<{ status: boolean }> {
     return options;
   }
   async printText(options: { printerName: string, status: boolean }): Promise<{ status: boolean }> {
