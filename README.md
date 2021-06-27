@@ -1,5 +1,9 @@
 # NETUM-NT-G5 - Ionic-Capacitor native plugin
 
+Just followed this one
+
+https://capacitorjs.com/docs/plugins/creating-plugins
+
 Ionic Capacitor Native Plugin for NETUM NT-G5 Label Printer
 
 Our requirement is to print barcode when end user is at remote area. 
