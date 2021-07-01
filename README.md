@@ -38,3 +38,8 @@ Used this SDK http://download.gzxlscan.com/driver/nt-g5//Bluetooth%20Label%20Pri
 Above step is always necessary for Android plugins.
 
 ![image](https://user-images.githubusercontent.com/85802871/124133491-80c54800-da9f-11eb-9f72-ceae912d2909.png)
+
+https://www.amazon.com/gp/product/B07RKX8JMX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+![image](https://user-images.githubusercontent.com/85802871/124133864-e1ed1b80-da9f-11eb-94fb-012ab21ace64.png)
+
